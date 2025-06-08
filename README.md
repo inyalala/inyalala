@@ -1,4 +1,4 @@
-# Hi, I'm Innocent
+# Hello, I'm Innocent 
 
 <div align="center">
 
@@ -23,23 +23,6 @@
 - 🏥 **Medical Imaging & Healthcare AI** - Diagnostic tools and assistive technologies  
 - ⚖️ **Responsible AI Frameworks** - Ethical AI development for African contexts
 - 🎓 **Research Leadership** - Mentoring next generation of AI researchers
-
----
-
-## 📊 Profile & Website Analytics
-
-<div align="center">
-
-### GitHub Profile Engagement
-![Profile Views](https://komarev.com/ghpvc/?username=inyalala&color=2E8B57&style=for-the-badge&label=Profile+Views)
-
-### Portfolio Website Traffic
-[![Portfolio Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Finyalala.github.io&count_bg=%232E8B57&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Portfolio+Visits&edge_flat=false)](https://inyalala.github.io)
-
-### SAAIL Lab Website Traffic
-[![SAAIL Lab Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Finyalala.github.io%2Fsaaillab.github.io&count_bg=%23FF6B35&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=SAAIL+Lab+Visits&edge_flat=false)](https://inyalala.github.io/saaillab.github.io)
-
-</div>
 
 ---
 
@@ -267,5 +250,7 @@ mindmap
 ### 🏛️ IIT Madras Zanzibar | 🔬 SAAIL Lab | 🌍 East Africa
 
 **© 2024 Dr. Innocent Nyalala - Bridging cutting-edge technology with real-world impact**
+
+![Profile Views](https://komarev.com/ghpvc/?username=inyalala&color=2E8B57&style=for-the-badge&label=Profile+Views)
 
 </div>

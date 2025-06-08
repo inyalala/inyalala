@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Dr.%20Innocent%20Nyalala&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Assistant%20Professor%20%7C%20SAAIL%20Lab%20Director&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Assistant+Professor+at+IIT+Madras+Zanzibar;AI+Researcher+%26+Agricultural+Technology+Innovator;Founding+Principal+Investigator+of+SAAIL+Lab;Transforming+East+Africa+through+Ethical+AI;22%2B+Publications+%7C+830%2B+Citations+%7C+h-index%3A+13)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Assistant+Professor+at+IIT+Madras+Zanzibar;AI+Researcher+%26+Agricultural+Technology+Innovator;Founding+Principal+Investigator+of+SAAIL+Lab;Transforming+East+Africa+through+Ethical+AI+Agricultural+AI;22%2B+Publications+%7C+830%2B+Citations+%7C+h-index%3A+13)](https://git.io/typing-svg)
 
 </div>
 

@@ -1,10 +1,10 @@
-# Hello, I'm Innocent Nyalala
+# Hi, I'm Innocent
 
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Dr.%20Innocent%20Nyalala&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Assistant%20Professor%20%7C%20SAAIL%20Lab%20Director&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Assistant+Professor+at+IIT+Madras+Zanzibar;AI+Researcher+%26+Agricultural+Technology+Innovator;Founding+Principal+Investigator+of+SAAIL+Lab;Transforming+East+Africa+through+Ethical+AI+Agricultural+AI;22%2B+Publications+%7C+830%2B+Citations+%7C+h-index%3A+13)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Assistant+Professor+at+IIT+Madras+Zanzibar;AI+Researcher+%26+Agricultural+Technology+Innovator;Founding+Principal+Investigator+of+SAAIL+Lab;Transforming+East+Africa+through+Ethical+AI;22%2B+Publications+%7C+830%2B+Citations+%7C+h-index%3A+13)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,6 +23,23 @@
 - 🏥 **Medical Imaging & Healthcare AI** - Diagnostic tools and assistive technologies  
 - ⚖️ **Responsible AI Frameworks** - Ethical AI development for African contexts
 - 🎓 **Research Leadership** - Mentoring next generation of AI researchers
+
+---
+
+## 📊 Profile & Website Analytics
+
+<div align="center">
+
+### GitHub Profile Engagement
+![Profile Views](https://komarev.com/ghpvc/?username=inyalala&color=2E8B57&style=for-the-badge&label=Profile+Views)
+
+### Portfolio Website Traffic
+[![Portfolio Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Finyalala.github.io&count_bg=%232E8B57&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Portfolio+Visits&edge_flat=false)](https://inyalala.github.io)
+
+### SAAIL Lab Website Traffic
+[![SAAIL Lab Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Finyalala.github.io%2Fsaaillab.github.io&count_bg=%23FF6B35&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=SAAIL+Lab+Visits&edge_flat=false)](https://inyalala.github.io/saaillab.github.io)
+
+</div>
 
 ---
 
@@ -250,7 +267,5 @@ mindmap
 ### 🏛️ IIT Madras Zanzibar | 🔬 SAAIL Lab | 🌍 East Africa
 
 **© 2024 Dr. Innocent Nyalala - Bridging cutting-edge technology with real-world impact**
-
-![Profile Views](https://komarev.com/ghpvc/?username=inyalala&color=2E8B57&style=for-the-badge&label=Profile+Views)
 
 </div>

@@ -97,7 +97,7 @@
 
 ```mermaid
 mindmap
-  root((Dr. Nyalala's Research))
+  root((Nyalala's Research))
     AI for Agriculture
       Precision Crop Management
       Deep Learning for Quality Grading
@@ -249,7 +249,7 @@ mindmap
 
 ### 🏛️ IIT Madras Zanzibar | 🔬 SAAIL Lab | 🌍 East Africa
 
-**© 2024 Dr. Innocent Nyalala - Bridging cutting-edge technology with real-world impact**
+**© 2024 Innocent Nyalala - Bridging cutting-edge technology with real-world impact**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=inyalala&color=2E8B57&style=for-the-badge&label=Profile+Views)
 

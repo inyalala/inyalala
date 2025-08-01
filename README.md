@@ -13,10 +13,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🔬 **Assistant Professor** at **IIT Madras Zanzibar**  
-🌱 **Founding Principal Investigator** of **SAAIL Lab**  
+🌱 **Principal Investigator** of **SAAIL Lab**  
 🤖 **AI Researcher** specializing in Agriculture & Healthcare  
 🌍 **Transforming East Africa** through ethical AI innovation  
-📚 **22+ Publications** with **830+ Citations**  
+📚 **22+ Publications** with **875+ Citations**  
 
 ### 🚀 Current Focus
 - 🌾 **AI for Sustainable Agriculture** - Precision crop management and smart farming
@@ -84,10 +84,10 @@
 | Metric | Value | Impact |
 |--------|-------|--------|
 | 📚 **Publications** | 22+ | High-impact journals |
-| 📈 **Citations** | 830+ | Growing influence |
+| 📈 **Citations** | 875+ | Growing influence |
 | 🎯 **h-index** | 13 | Research significance |
 | 🔬 **Active Projects** | 6+ | Current innovations |
-| 👥 **Students Supervised** | 3 | MTech researchers |
+| 👥 **Students Supervising** | 4 | PhD Candidates | 4 | MTech Students |
 
 </div>
 

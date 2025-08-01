@@ -161,16 +161,16 @@ mindmap
 
 <div align="center">
 
-### 🏆 High-Impact Research (2024)
+### 🏆 High-Impact Research (2025)
 
-📄 **"Advanced Deep Learning for Cassava Disease Detection"**  
-*Artificial Intelligence in Agriculture* (IF: 8.2) | 🔗 [Read Paper](https://scholar.google.com/citations?user=jYVzIZUAAAAJ&hl=en)
+📄 **"Rectifying the extremely weakened signals for cassava leaf disease detection"**  
+*Computers and Electronics in Agriculture* (IF: 8.9) | 🔗 [Read Paper](https://doi.org/10.1016/j.compag.2025.110107)
 
-📄 **"3D Reconstruction for Poultry Processing Applications"**  
-*Journal of Food Engineering* (IF: 5.3) | 🔗 [Read Paper](https://scholar.google.com/citations?user=jYVzIZUAAAAJ&hl=en)
+📄 **"A salient feature establishment tactic for cassava disease recognition"**  
+*Artificial Inteligence in Agriculture* (IF: 12.4) | 🔗 [Read Paper](https://doi.org/10.1016/j.aiia.2024.11.004)
 
-📄 **"Signal Modulation Techniques in Agricultural AI"**  
-*Computers and Electronics in Agriculture* (IF: 7.7) | 🔗 [Read Paper](https://scholar.google.com/citations?user=jYVzIZUAAAAJ&hl=en)
+📄 **"Online chicken carcass volume estimation using depth imaging and 3-D reconstruction"**  
+*Poultry Science* (IF: 4.2) | 🔗 [Read Paper](https://doi.org/10.1016/j.psj.2024.104232)
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jYVzIZUAAAAJ&hl=en)
 

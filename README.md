@@ -1,11 +1,11 @@
 <div align="center">
 
-# Victor Jotham Ashioya
+# Innocent Nyalala
 
-[![GitHub followers](https://img.shields.io/github/followers/ashioyajotham?style=social)](https://github.com/ashioyajotham)
-[![GitHub stars](https://img.shields.io/github/stars/ashioyajotham?style=social)](https://github.com/ashioyajotham)
+[![GitHub followers](https://img.shields.io/github/followers/inyalala?style=social)](https://github.com/inyalala)
+[![GitHub stars](https://img.shields.io/github/stars/inyalala?style=social)](https://github.com/inyalala)
 
-*Alignment | Mech int*
+*Assistant Professor @ IIT Madras Zanzibar | SAAIL Lab Director*
 
 </div>
 
@@ -13,17 +13,14 @@
 
 ## About Me
 
-ML Researcher exploring technical AI safety at [Bluedot](https://bluedot.org). Google Developer Expert (GDE) in AI.
+Assistant Professor at **IIT Madras Zanzibar** and founding Principal Investigator of **SAAIL Lab** (Sustainable AI for Agriculture & Intelligent Livelihoods).
 
 **Research Focus:**
-- World models — latent simulators for planning and counterfactual reasoning
-- Circuit-level structure in neural networks (mechanistic interpretability)
-- AI safety: alignment, red-teaming, evaluation awareness
+- AI for sustainable agriculture and precision crop management
+- Medical imaging and healthcare diagnostics
+- Responsible AI frameworks for African contexts
 
-**Currently Building:**
-- Assistants for information synthesis and coding
-- Quantitative/algorithmic trading systems
-- ML systems design
+**Metrics:** 22+ Publications | 875+ Citations | h-index: 13
 
 ---
 
@@ -31,7 +28,7 @@ ML Researcher exploring technical AI safety at [Bluedot](https://bluedot.org). G
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashioyajotham&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=inyalala&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -39,7 +36,7 @@ ML Researcher exploring technical AI safety at [Bluedot](https://bluedot.org). G
 <summary> <b>Recent GitHub Activity</b></summary>
 <br>
 
-[![Ashioya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashioyajotham&theme=react-dark&hide_border=true&area=true)](https://github.com/ashioyajotham)
+[![Nyalala's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=inyalala&theme=react-dark&hide_border=true&area=true)](https://github.com/inyalala)
 
 </details>
 
@@ -47,11 +44,13 @@ ML Researcher exploring technical AI safety at [Bluedot](https://bluedot.org). G
 
 ## Recent Publications
 
-| Paper | Venue |
-|-------|-------|
-| [Democratizing Quantitative Trading in African Markets: A FinGPT-Based Approach](https://github.com/ashioyajotham/fingpt_trader) | AI in Business and Finance 2025 |
+| Paper | Journal | IF |
+|-------|---------|-----|
+| [Rectifying the extremely weakened signals for cassava leaf disease detection](https://doi.org/10.1016/j.compag.2025.110107) | Computers and Electronics in Agriculture | 8.9 |
+| [A salient feature establishment tactic for cassava disease recognition](https://doi.org/10.1016/j.aiia.2024.11.004) | Artificial Intelligence in Agriculture | 12.4 |
+| [Online chicken carcass volume estimation using depth imaging](https://doi.org/10.1016/j.psj.2024.104232) | Poultry Science | 4.2 |
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=J3rI_FIAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jYVzIZUAAAAJ&hl=en)
 
 ---
 
@@ -62,32 +61,27 @@ ML Researcher exploring technical AI safety at [Bluedot](https://bluedot.org). G
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 </div>
 
 ---
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [**fingpt_trader**](https://github.com/ashioyajotham/fingpt_trader) | Quant trading platform leveraging FinGPT |
-| [**web_research_agent**](https://github.com/ashioyajotham/web_research_agent) | ReAct paradigm for dynamic task analysis |
-| [**cot-faithfulness-mech-interp**](https://github.com/ashioyajotham/cot-faithfulness-mech-interp) | Mechanistic analysis of chain-of-thought reasoning |
-| [**eval-awareness-research**](https://github.com/ashioyajotham/eval-awareness-research) | Detecting evaluation awareness in LLMs |
-
----
+## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashioyajotham/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ashioyajotham_)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://ashioyajotham.substack.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-inyalala.github.io-2E8B57?style=flat-square)](https://inyalala.github.io)
+[![SAAIL Lab](https://img.shields.io/badge/SAAIL_Lab-Research-FF6B35?style=flat-square)](https://inyalala.github.io/saaillab.github.io)
+[![Email](https://img.shields.io/badge/Email-innocent@iitmz.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:innocent@iitmz.ac.in)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/innocentnyalala/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jYVzIZUAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7969-437X)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashioyajotham&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=inyalala&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>

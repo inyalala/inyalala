@@ -40,9 +40,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=inyalala&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=inyalala&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=inyalala&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=inyalala&theme=dark&hide_border=true" />
+</picture>
 
-<br>
+<br><br>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inyalala&bg_color=1A1B27&color=70a5fd&line=FB8C00&point=FFFFFF&area=true&hide_border=true)](https://github.com/inyalala)
 

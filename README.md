@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=inyalala&theme=dark&hide_border=true&background=1A1B27&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=inyalala&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 

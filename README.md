@@ -40,11 +40,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inyalala&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=inyalala&theme=dark&hide_border=true&background=1A1B27&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888)](https://git.io/streak-stats)
 
-<br><br>
+<br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inyalala&bg_color=0D1117&color=2E8B57&line=2E8B57&point=FFFFFF&area=true&hide_border=true)](https://github.com/inyalala)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inyalala&bg_color=1A1B27&color=70a5fd&line=FB8C00&point=FFFFFF&area=true&hide_border=true)](https://github.com/inyalala)
 
 </div>
 

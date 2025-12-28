@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Innocent%20Nyalala&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20|%20Assistant%20Professor%20|%20SAAIL%20Lab%20Director&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Innocent%20Nyalala&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20|%20Assistant%20Professor%20|%20SAAIL%20Lab%20Director&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Founding+Principal+Investigator+of+SAAIL+Lab;Transforming+East+Africa+through+Ethical+AI;22%2B+Publications+%7C+875%2B+Citations+%7C+h-index%3A+13;AI+for+Agriculture+%26+Healthcare)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Founding+Principal+Investigator+of+SAAIL+Lab;Transforming+East+Africa+through+Ethical+AI;22%2B+Publications+%7C+875%2B+Citations+%7C+h-index%3A+13;AI+for+Agriculture+%26+Healthcare)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/inyalala?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/inyalala)
 [![GitHub stars](https://img.shields.io/github/stars/inyalala?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/inyalala)
@@ -15,7 +15,9 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<table>
+<tr>
+<td width="60%">
 
 🔬 **Assistant Professor** at **IIT Madras Zanzibar**
 🌱 **Principal Investigator** of **SAAIL Lab**
@@ -23,7 +25,14 @@
 🌍 **Transforming East Africa** through ethical AI innovation
 📚 **22+ Publications** with **875+ Citations**
 
-<br clear="right"/>
+</td>
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist" width="200"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -31,19 +40,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=inyalala&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=inyalala&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" alt="GitHub Streak"/>
+
+<br><br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inyalala&bg_color=0D1117&color=2E8B57&line=2E8B57&point=FFFFFF&area=true&hide_border=true)](https://github.com/inyalala)
 
 </div>
-
-<details open>
-<summary><b>⚡ Activity Graph</b></summary>
-<br>
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inyalala&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/inyalala)
-
-</div>
-</details>
 
 ---
 
@@ -51,22 +54,11 @@
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Research))
-    AI for Agriculture
-      Precision Crop Management
-      Deep Learning for Quality Grading
-      Supply Chain Innovation
-    Medical Imaging
-      Placental Imaging Analysis
-      3D Reconstruction
-      Healthcare Informatics
-    Responsible AI
-      Ethical Frameworks
-      Context-Aware AI
-      AI for African Contexts
-```
+| 🌾 **AI for Agriculture** | 🏥 **Medical Imaging** | ⚖️ **Responsible AI** |
+|:------------------------:|:---------------------:|:--------------------:|
+| Precision Crop Management | Placental Imaging Analysis | Ethical Frameworks |
+| Deep Learning for Quality Grading | 3D Reconstruction | Context-Aware AI |
+| Supply Chain Innovation | Healthcare Informatics | AI for African Contexts |
 
 </div>
 
@@ -76,8 +68,10 @@ mindmap
 
 <div align="center">
 
-[![SAAIL Lab](https://github-readme-stats.vercel.app/api/pin/?username=inyalala&repo=saaillab.github.io&theme=tokyonight&hide_border=true)](https://github.com/inyalala/saaillab.github.io)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=inyalala&repo=inyalala.github.io&theme=tokyonight&hide_border=true)](https://github.com/inyalala/inyalala.github.io)
+| Project | Description | Link |
+|:-------:|:------------|:----:|
+| **SAAIL Lab** | Sustainable AI for Agriculture & Intelligent Livelihoods | [![Visit](https://img.shields.io/badge/Visit-2E8B57?style=flat-square)](https://inyalala.github.io/saaillab.github.io) |
+| **Portfolio** | Academic portfolio and research showcase | [![Visit](https://img.shields.io/badge/Visit-2E8B57?style=flat-square)](https://inyalala.github.io) |
 
 </div>
 
@@ -117,9 +111,9 @@ mindmap
 
 <div align="center">
 
-🔬 **Research Partnerships** — Joint projects in AI for Agriculture & Healthcare
-🎓 **Student Supervision** — PhD and MTech opportunities at SAAIL Lab
-🎤 **Speaking** — Conferences, workshops, and keynotes on Responsible AI
+| 🔬 Research Partnerships | 🎓 Student Supervision | 🎤 Speaking |
+|:------------------------:|:----------------------:|:-----------:|
+| Joint projects in AI for Agriculture & Healthcare | PhD and MTech opportunities at SAAIL Lab | Conferences and keynotes on Responsible AI |
 
 </div>
 
@@ -129,8 +123,8 @@ mindmap
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-inyalala.github.io-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://inyalala.github.io)
-[![SAAIL Lab](https://img.shields.io/badge/SAAIL%20Lab-Research-FF6B35?style=for-the-badge&logo=atom&logoColor=white)](https://inyalala.github.io/saaillab.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-inyalala.github.io-2E8B57?style=for-the-badge&logo=safari&logoColor=white)](https://inyalala.github.io)
+[![SAAIL Lab](https://img.shields.io/badge/SAAIL%20Lab-Research-2E8B57?style=for-the-badge&logo=microsoftacademic&logoColor=white)](https://inyalala.github.io/saaillab.github.io)
 [![Email](https://img.shields.io/badge/Email-innocent@iitmz.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:innocent@iitmz.ac.in)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/innocentnyalala/)
@@ -144,8 +138,8 @@ mindmap
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
 
-![Profile Views](https://komarev.com/ghpvc/?username=inyalala&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=inyalala&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>

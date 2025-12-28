@@ -11,6 +11,22 @@
 
 ---
 
+## About Me
+
+ML Researcher exploring technical AI safety at [Bluedot](https://bluedot.org). Google Developer Expert (GDE) in AI.
+
+**Research Focus:**
+- World models — latent simulators for planning and counterfactual reasoning
+- Circuit-level structure in neural networks (mechanistic interpretability)
+- AI safety: alignment, red-teaming, evaluation awareness
+
+**Currently Building:**
+- Assistants for information synthesis and coding
+- Quantitative/algorithmic trading systems
+- ML systems design
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
@@ -23,22 +39,19 @@
 <summary> <b>Recent GitHub Activity</b></summary>
 <br>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 [![Ashioya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashioyajotham&theme=react-dark&hide_border=true&area=true)](https://github.com/ashioyajotham)
 
 </details>
 
 ---
 
-## Current Focus
+## Recent Publications
 
-- Building assistants for information synthesis and coding
-- Quantitative/algorithmic trading systems
-- ML systems design
+| Paper | Venue |
+|-------|-------|
+| [Democratizing Quantitative Trading in African Markets: A FinGPT-Based Approach](https://github.com/ashioyajotham/fingpt_trader) | AI in Business and Finance 2025 |
 
-**Research Interests:** MLOps | AI Safety (red-teaming, mechanistic interpretability, alignment) | Foundation Models | World Models
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=J3rI_FIAAAAJ&hl=en)
 
 ---
 
@@ -71,8 +84,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashioyajotham/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ashioyajotham_)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@ashioyajotham)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://ashioyajotham.substack.com/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashioyajotham&color=blueviolet&style=flat-square)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashioyajotham&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>

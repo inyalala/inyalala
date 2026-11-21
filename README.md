@@ -18,7 +18,7 @@
 
 ## About Me
 
-- **Assistant Professor of Data Science & AI**, School of Engineering and Science, **[IIT Madras Zanzibar](https://saaillab.github.io/)** (Zanzibar, Tanzania)
+- **Assistant Professor of Data Science & AI**, School of Engineering and Science, **[IIT Madras Zanzibar](https://www.iitmz.ac.in/schools/engineering-and-science/faculty/prof-innocent-nyalala)** ([Campus](https://www.iitmz.ac.in/) · [Research Labs](https://www.iitmz.ac.in/labs))
 - **Associate Research Fellow**, **[Wadhwani School of Data Science and AI](https://wsai.iitm.ac.in/)**, IIT Madras Chennai
 - **Principal Investigator**, **[SAAIL Lab](https://saaillab.github.io/)** (*Sustainable AI for Agriculture & Intelligent Livelihoods* - AI, deep learning, computer vision, Swahili NLP, and healthcare AI research lab in Zanzibar)
 - **Research Domains**: Deep Learning, Computer Vision for Precision Agriculture and Coastal Blue Economy, Swahili NLP and Provenance Benchmarks, Responsible AI Auditing, and Clinical Machine Learning across East Africa
@@ -34,7 +34,7 @@
 | Total Cataloged Works | **42** | 20 SAAIL Lab (15 Published + 5 Under Peer Review) + 22 Prior PI Works |
 | Google Scholar Citations | **1,270** | **1,204 since 2021** · **h-index: 15** · **i10-index: 17** |
 | Sponsored Research | **Active Grants** | IITMZ ICSR Seed Grants & International Academic Consortia |
-| Lab Mentorship | **5 PhD · 7 MTech · 4 BS** | Co-supervised PhDs, graduated & current MTech scholars, BS in DSAI researchers |
+| Lab Mentorship | **5 PhD · 7 MTech · 3 BS** | Co-supervised PhDs, graduated & current MTech scholars, BS in DSAI researchers |
 
 ---
 
@@ -64,6 +64,12 @@
 | **2025** | **BAFNet**: Deep contour-aware features for colorectal polyps segmentation | *Expert Syst. Appl.* (IF 7.5) | [Project Page](https://saaillab.github.io/papers/bafnet-polyp-2025/) · [DOI](https://doi.org/10.1016/j.eswa.2025.129998) |
 
 > Browse all **42 interactive Academic Project Pages** (20 SAAIL Lab + 22 Founding PI Prior Works) at **[saaillab.github.io/publications](https://saaillab.github.io/publications/)** or **[inyalala.github.io/publications](https://inyalala.github.io/publications/)**.
+
+---
+
+## License & Research Attribution
+
+All open research implementations, datasets, and materials linked from SAAIL Lab repositories carry **[CC BY-NC 4.0](LICENSE)** licensing strictly for **non-commercial scientific research** with mandatory attribution to **Innocent Nyalala** and **SAAIL Lab (IIT Madras Zanzibar)**. Commercialization is prohibited without direct inclusion and prior written consent (`innocent@iitmz.ac.in`).
 
 ---
 

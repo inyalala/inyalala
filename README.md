@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=%20Innocent%20Nyalala&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Assistant%20Professor%20%7C%20WSDSAI%20Associate%20Researcher%20%7C%20SAAIL%20Lab%20PI&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=%20Innocent%20Nyalala&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Assistant%20Professor%20%7C%20WSDSAI%20Associate%20Research%20Fellow%20%7C%20SAAIL%20Lab%20PI&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14532D&center=true&vCenter=true&width=820&lines=Assistant+Professor+at+IIT+Madras+Zanzibar;Associate+Researcher+at+WSDSAI%2C+IIT+Madras+Chennai;Founding+PI+of+SAAIL+Lab+%7C+Google+CultureSEEDS+East+Africa+Lead;42+Cataloged+Works+%7C+1%2C270+Citations+%7C+h-index%3A+15+%7C+2x+DLI+Best+Poster)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14532D&center=true&vCenter=true&width=820&lines=Assistant+Professor+at+IIT+Madras+Zanzibar;Associate+Research+Fellow+at+WSDSAI%2C+IIT+Madras+Chennai;Founding+PI+of+SAAIL+Lab+%7C+Google+CultureSEEDS+East+Africa+Lead;42+Cataloged+Works+%7C+1%2C270+Citations+%7C+h-index%3A+15+%7C+2x+DLI+Best+Poster)](https://git.io/typing-svg)
 
 [![SAAIL Lab](https://img.shields.io/badge/SAAIL%20Lab-saaillab.github.io-14532d?style=for-the-badge)](https://saaillab.github.io/)
 [![Lab Projects](https://img.shields.io/badge/Active%20Grants-CultureSEEDS%20%24100K-b45309?style=for-the-badge)](https://saaillab.github.io/projects/)
@@ -19,7 +19,7 @@
 ## About Me
 
 - **Assistant Professor of Data Science & AI**, School of Engineering and Science, **IIT Madras Zanzibar**
-- **Associate Researcher**, **Wadhwani School of Data Science and AI (WSDSAI)**, IIT Madras Chennai
+- **Associate Research Fellow**, **[Wadhwani School of Data Science and AI (WSDSAI)](https://wsai.iitm.ac.in/)**, IIT Madras Chennai
 - **Founding Principal Investigator**, **[SAAIL Lab](https://saaillab.github.io/)** (*Sustainable AI for Agriculture & Intelligent Livelihoods*)
 - **East Africa Principal Investigator**, **Google CultureSEEDS** (US$100,000 Research Award on Swahili safety evaluation, Dira provenance detection, and Zanzibar Spoken QA)
 - **Editorial & Peer Review Service**: Editorial Board Member, *Discover Artificial Intelligence* (Springer Nature); Reviewer for ICML and NeurIPS
@@ -34,7 +34,7 @@
 | Total Cataloged Works | **42** | 20 SAAIL Lab (15 Published + 5 Under Peer Review) + 22 Prior PI Works |
 | Google Scholar Citations | **1,270** | **1,204 since 2021** · **h-index: 15** · **i10-index: 17** |
 | Funded Grants & Awards | **US$120K+** | Google Research CultureSEEDS, ICSR, IITMZ Seed Grants |
-| Lab Mentorship | **5 PhD · 7 MTech · 8 BS** | Co-supervised PhDs, graduated & current MTech scholars, BS/BTech researchers |
+| Lab Mentorship | **5 PhD · 7 MTech · 4 BS** | Co-supervised PhDs, graduated & current MTech scholars, BS in DSAI researchers |
 
 ---
 
@@ -42,10 +42,10 @@
 
 | Pillar | Focus Areas | Flagship Outputs & Code |
 |---|---|---|
-| **Precision Agriculture & Crop Pathology** | Edge CNN-Transformer diagnostics, clove grading, multi-scale vision | [CropGuardNet](https://saaillab.github.io/papers/cropguardnet/) · [CLOVES-4603](https://saaillab.github.io/papers/cloves-4603/) · [Ubora-AI](https://saaillab.github.io/tools/) |
-| **Multilingual AI Safety & Swahili NLP** | Culturally grounded East African safety, provenance & spoken QA | [Google CultureSEEDS](https://saaillab.github.io/projects/) · [Swahili & Dira Corpora](https://saaillab.github.io/datasets/) |
+| **Precision Agriculture & Crop Pathology** | Edge CNN-Transformer diagnostics, clove grading, multi-scale vision | [CropGuardNet](https://saaillab.github.io/papers/cropguardnet/) · [CLOVES-4603](https://saaillab.github.io/papers/cloves-4603/) · [Ubora-AI](https://saaillab.github.io/projects/ubora-ai/) |
+| **Multilingual AI Safety & Swahili NLP** | Culturally grounded East African safety, provenance & spoken QA | [Google CultureSEEDS](https://saaillab.github.io/projects/cultureseeds/) · [Swahili & Dira Corpora](https://saaillab.github.io/projects/swahili-dira/) |
 | **Responsible AI & Sovereign Policy** | Deployment gap auditing, compositional XAI, East African AI governance | [DGS-Bench](https://saaillab.github.io/papers/dgs-bench/) · [ETRI XAI](https://saaillab.github.io/papers/clove-xai-etri2026/) · [CARA-FM](https://saaillab.github.io/papers/cara-fm/) |
-| **Healthcare & Assistive AI** | Placental ultrasound, maternal biomarkers, polyp segmentation, E-Vision | [BAFNet (ESWA 2025)](https://saaillab.github.io/papers/bafnet-polyp-2025/) · [Research Pillars](https://saaillab.github.io/research/) |
+| **Maternal Healthcare & Clinical AI** | Placental ultrasound, maternal biomarkers, polyp segmentation, federated privacy | [PlacentaVision](https://saaillab.github.io/projects/placentavision/) · [BAFNet (ESWA 2025)](https://saaillab.github.io/papers/bafnet-polyp-2025/) |
 
 ---
 
@@ -60,7 +60,7 @@
 | **2026** | **Unifying Perspectives on Learning Biases**: Data-Centric Fairness, Robustness & Generalization | **ICLR 2026 Workshop** | [Project Page](https://saaillab.github.io/papers/trustworthy-ai-iclr2026/) · [GitHub](https://github.com/saaillab/trustworthy-ai-iclr2026) |
 | **2026** | **CARA-FMs**: Culturally Attuned and Resource-Aware Foundation Models for East African Agriculture | **PMLR Vol. 302 · DLI Best Poster** | [Project Page](https://saaillab.github.io/papers/cara-fm/) · [GitHub](https://github.com/saaillab/cara-fm) |
 | **2026** | **AI Policy Harmonization in East Africa**: Cultural Sustainability in the New Technological Age | **Oxford TAIS 2026** | [Project Page](https://saaillab.github.io/papers/ai-policy-harmonization-tais2026/) |
-| **2025** | **Rectifying the extremely weakened signals for cassava leaf disease detection** | *Comput. Electron. Agric.* (IF 7.7) | [Project Page](https://saaillab.github.io/papers/cassava-weakened-signals-2025/) · [DOI](https://doi.org/10.1016/j.compag.2025.110107) |
+| **2025** | **Rectifying the extremely weakened signals for cassava leaf disease detection** | *Comput. Electron. Agric.* (IF 8.9) | [Project Page](https://saaillab.github.io/papers/cassava-weakened-signals-2025/) · [DOI](https://doi.org/10.1016/j.compag.2025.110107) |
 | **2025** | **BAFNet**: Deep contour-aware features for colorectal polyps segmentation | *Expert Syst. Appl.* (IF 7.5) | [Project Page](https://saaillab.github.io/papers/bafnet-polyp-2025/) · [DOI](https://doi.org/10.1016/j.eswa.2025.129998) |
 
 > Browse all **42 interactive Academic Project Pages** (20 SAAIL Lab + 22 Founding PI Prior Works) at **[saaillab.github.io/publications](https://saaillab.github.io/publications/)** or **[inyalala.github.io/publications](https://inyalala.github.io/publications/)**.

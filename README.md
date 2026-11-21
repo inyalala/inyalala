@@ -1,13 +1,13 @@
-# Hello, I'm Dr. Innocent Nyalala
+# Innocent Nyalala
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=%20Innocent%20Nyalala&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Assistant%20Professor%20%7C%20WSDSAI%20Associate%20Research%20Fellow%20%7C%20SAAIL%20Lab%20PI&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=%20Innocent%20Nyalala&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Assistant%20Professor%20%7C%20IIT%20Madras%20Zanzibar%20%7C%20SAAIL%20Lab%20PI&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14532D&center=true&vCenter=true&width=820&lines=Assistant+Professor+at+IIT+Madras+Zanzibar;Associate+Research+Fellow+at+WSDSAI%2C+IIT+Madras+Chennai;Founding+PI+of+SAAIL+Lab+%7C+Google+CultureSEEDS+East+Africa+Lead;42+Cataloged+Works+%7C+1%2C270+Citations+%7C+h-index%3A+15+%7C+2x+DLI+Best+Poster)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14532D&center=true&vCenter=true&width=820&lines=Assistant+Professor+at+IIT+Madras+Zanzibar%2C+Tanzania;Associate+Research+Fellow+at+IIT+Madras+Wadhwani+School+of+DSAI;Principal+Investigator%2C+SAAIL+Lab+-+Zanzibar+AI+Research+Lab;42+Cataloged+Works+%7C+1%2C270+Citations+%7C+h-index%3A+15+%7C+2x+DLI+Best+Poster)](https://git.io/typing-svg)
 
-[![SAAIL Lab](https://img.shields.io/badge/SAAIL%20Lab-saaillab.github.io-14532d?style=for-the-badge)](https://saaillab.github.io/)
-[![Lab Projects](https://img.shields.io/badge/Active%20Grants-CultureSEEDS%20%24100K-b45309?style=for-the-badge)](https://saaillab.github.io/projects/)
+[![SAAIL Lab](https://img.shields.io/badge/SAAIL%20Lab%20Zanzibar-saaillab.github.io-14532d?style=for-the-badge)](https://saaillab.github.io/)
+[![Lab Projects](https://img.shields.io/badge/Research%20Projects-Zanzibar%20%26%20East%20Africa-b45309?style=for-the-badge)](https://saaillab.github.io/projects/)
 [![Faculty Site](https://img.shields.io/badge/Portfolio-inyalala.github.io-0f172a?style=for-the-badge)](https://inyalala.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-1%2C270%20Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jYVzIZUAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7969--437X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7969-437X)
@@ -18,10 +18,10 @@
 
 ## About Me
 
-- **Assistant Professor of Data Science & AI**, School of Engineering and Science, **IIT Madras Zanzibar**
-- **Associate Research Fellow**, **[Wadhwani School of Data Science and AI (WSDSAI)](https://wsai.iitm.ac.in/)**, IIT Madras Chennai
-- **Founding Principal Investigator**, **[SAAIL Lab](https://saaillab.github.io/)** (*Sustainable AI for Agriculture & Intelligent Livelihoods*)
-- **East Africa Principal Investigator**, **Google CultureSEEDS** (US$100,000 Research Award on Swahili safety evaluation, Dira provenance detection, and Zanzibar Spoken QA)
+- **Assistant Professor of Data Science & AI**, School of Engineering and Science, **[IIT Madras Zanzibar](https://saaillab.github.io/)** (Zanzibar, Tanzania)
+- **Associate Research Fellow**, **[Wadhwani School of Data Science and AI](https://wsai.iitm.ac.in/)**, IIT Madras Chennai
+- **Principal Investigator**, **[SAAIL Lab](https://saaillab.github.io/)** (*Sustainable AI for Agriculture & Intelligent Livelihoods* - AI, deep learning, computer vision, Swahili NLP, and healthcare AI research lab in Zanzibar)
+- **Research Domains**: Deep Learning, Computer Vision for Precision Agriculture and Coastal Blue Economy, Swahili NLP and Provenance Benchmarks, Responsible AI Auditing, and Clinical Machine Learning across East Africa
 - **Editorial & Peer Review Service**: Editorial Board Member, *Discover Artificial Intelligence* (Springer Nature); Reviewer for ICML and NeurIPS
 - **Honors**: **2x Deep Learning Indaba Best Poster Award** (**DLI 2026 Lagos** for *DGS-Bench*; **DLI 2025 Kigali** for *CARA-FMs*)
 
@@ -33,7 +33,7 @@
 |---|---|---|
 | Total Cataloged Works | **42** | 20 SAAIL Lab (15 Published + 5 Under Peer Review) + 22 Prior PI Works |
 | Google Scholar Citations | **1,270** | **1,204 since 2021** · **h-index: 15** · **i10-index: 17** |
-| Funded Grants & Awards | **US$120K+** | Google Research CultureSEEDS, ICSR, IITMZ Seed Grants |
+| Sponsored Research | **Active Grants** | IITMZ ICSR Seed Grants & International Academic Consortia |
 | Lab Mentorship | **5 PhD · 7 MTech · 4 BS** | Co-supervised PhDs, graduated & current MTech scholars, BS in DSAI researchers |
 
 ---
@@ -42,9 +42,9 @@
 
 | Pillar | Focus Areas | Flagship Outputs & Code |
 |---|---|---|
-| **Precision Agriculture & Crop Pathology** | Edge CNN-Transformer diagnostics, clove grading, multi-scale vision | [CropGuardNet](https://saaillab.github.io/papers/cropguardnet/) · [CLOVES-4603](https://saaillab.github.io/papers/cloves-4603/) · [Ubora-AI](https://saaillab.github.io/projects/ubora-ai/) |
-| **Multilingual AI Safety & Swahili NLP** | Culturally grounded East African safety, provenance & spoken QA | [Google CultureSEEDS](https://saaillab.github.io/projects/cultureseeds/) · [Swahili & Dira Corpora](https://saaillab.github.io/projects/swahili-dira/) |
-| **Responsible AI & Sovereign Policy** | Deployment gap auditing, compositional XAI, East African AI governance | [DGS-Bench](https://saaillab.github.io/papers/dgs-bench/) · [ETRI XAI](https://saaillab.github.io/papers/clove-xai-etri2026/) · [CARA-FM](https://saaillab.github.io/papers/cara-fm/) |
+| **Precision Agriculture & Crop Pathology** | Edge CNN-Transformer diagnostics, clove grading, orchard & seaweed vision | [CropGuardNet](https://saaillab.github.io/papers/cropguardnet/) · [CLOVES-4603](https://saaillab.github.io/papers/cloves-4603/) · [Ubora-AI](https://saaillab.github.io/projects/ubora-ai/) |
+| **Swahili NLP & Cultural Alignment** | Coastal Kiunguja Swahili corpus, Dira provenance detection & spoken QA | [Swahili & Dira Corpora](https://saaillab.github.io/projects/swahili-dira/) · [SAAIL Datasets](https://saaillab.github.io/datasets/) |
+| **Responsible AI & Sovereign Policy** | Deployment gap auditing, compositional XAI, East African AI governance | [DGS-Bench](https://saaillab.github.io/papers/dgs-bench/) · [ETRI XAI](https://saaillab.github.io/papers/clove-xai-etri2026/) · [Responsible AI](https://saaillab.github.io/projects/responsible-ai-global-south/) |
 | **Maternal Healthcare & Clinical AI** | Placental ultrasound, maternal biomarkers, polyp segmentation, federated privacy | [PlacentaVision](https://saaillab.github.io/projects/placentavision/) · [BAFNet (ESWA 2025)](https://saaillab.github.io/papers/bafnet-polyp-2025/) |
 
 ---

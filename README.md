@@ -18,7 +18,7 @@
 
 ## About Me
 
-- **Assistant Professor of Data Science & AI**, School of Engineering and Science, **[IIT Madras Zanzibar](https://www.iitmz.ac.in/schools/engineering-and-science/faculty/prof-innocent-nyalala)** ([Campus](https://www.iitmz.ac.in/) · [Research Labs](https://www.iitmz.ac.in/labs))
+- **Assistant Professor of Data Science & AI**, School of Engineering and Science, **[IIT Madras Zanzibar](https://www.iitmz.ac.in/schools/engineering-and-science/faculty/prof-innocent-nyalala)**
 - **Associate Research Fellow**, **[Wadhwani School of Data Science and AI](https://wsai.iitm.ac.in/)**, IIT Madras Chennai
 - **Principal Investigator**, **[SAAIL Lab](https://saaillab.github.io/)** (*Sustainable AI for Agriculture & Intelligent Livelihoods* - AI, deep learning, computer vision, Swahili NLP, and healthcare AI research lab in Zanzibar)
 - **Research Domains**: Deep Learning, Computer Vision for Precision Agriculture and Coastal Blue Economy, Swahili NLP and Provenance Benchmarks, Responsible AI Auditing, and Clinical Machine Learning across East Africa
@@ -67,9 +67,9 @@
 
 ---
 
-## License & Research Attribution
+## License
 
-All open research implementations, datasets, and materials linked from SAAIL Lab repositories carry **[CC BY-NC 4.0](LICENSE)** licensing strictly for **non-commercial scientific research** with mandatory attribution to **Innocent Nyalala** and **SAAIL Lab (IIT Madras Zanzibar)**. Commercialization is prohibited without direct inclusion and prior written consent (`innocent@iitmz.ac.in`).
+&copy; 2026 Innocent Nyalala &amp; SAAIL Lab, Indian Institute of Technology Madras Zanzibar. Released under [CC BY-NC 4.0](LICENSE).
 
 ---
 

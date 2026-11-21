@@ -1,256 +1,75 @@
-# Hello, I'm Innocent 
+# Hello, I'm Dr. Innocent Nyalala
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=%20Innocent%20Nyalala&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Assistant%20Professor%20%7C%20SAAIL%20Lab%20Director&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=%20Innocent%20Nyalala&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Assistant%20Professor%20%7C%20WSDSAI%20Associate%20Researcher%20%7C%20SAAIL%20Lab%20PI&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Assistant+Professor+at+IIT+Madras+Zanzibar;AI+Researcher+%26+Agricultural+Technology+Innovator;Founding+Principal+Investigator+of+SAAIL+Lab;Transforming+East+Africa+through+Ethical+AI;22%2B+Publications+%7C+830%2B+Citations+%7C+h-index%3A+13)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Assistant+Professor+at+IIT+Madras+Zanzibar;Associate+Researcher+at+WSDSAI%2C+IIT+Madras+Chennai;Founding+PI+of+SAAIL+Lab+%7C+Discover+AI+Editorial+Board;45%2B+Works+%7C+1%2C185%2B+Citations+%7C+h-index%3A+15+%7C+2x+DLI+Best+Poster)](https://git.io/typing-svg)
 
-</div>
-
-## 🎯 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-🔬 **Assistant Professor** at **IIT Madras Zanzibar**  
-🌱 **Principal Investigator** of **SAAIL Lab**  
-🤖 **AI Researcher** specializing in Agriculture & Healthcare  
-🌍 **Transforming East Africa** through ethical AI innovation  
-📚 **22+ Publications** with **875+ Citations**  
-
-### 🚀 Current Focus
-- 🌾 **AI for Sustainable Agriculture** - Precision crop management and smart farming
-- 🏥 **Medical Imaging & Healthcare AI** - Diagnostic tools and assistive technologies  
-- ⚖️ **Responsible AI Frameworks** - Ethical AI development for African contexts
-- 🎓 **Research Leadership** - Mentoring next generation of AI researchers
-
----
-
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inyalala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inyalala&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inyalala&theme=tokyonight" alt="inyalala" />
-</div>
-
----
-
-## 🛠️ Tech Stack & Expertise
-
-### 💻 Programming Languages
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### 🤖 AI/ML Frameworks
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
-
-### 🔧 Tools & Technologies
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![SAAIL Lab](https://img.shields.io/badge/SAAIL%20Lab-saaillab.github.io-0f172a?style=for-the-badge)](https://saaillab.github.io/)
+[![CropGuard Series](https://img.shields.io/badge/CropGuard-Papers%201--6%20Hub-2563eb?style=for-the-badge)](https://saaillab.github.io/cropguard/)
+[![Faculty Site](https://img.shields.io/badge/Portfolio-inyalala.github.io-2E8B57?style=for-the-badge)](https://inyalala.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-1%2C185%2B%20Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jYVzIZUAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7969--437X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7969-437X)
 
 </div>
 
 ---
 
-## 🏆 Research Excellence
+## About Me
 
-<div align="center">
-
-### 📊 Research Metrics
-| Metric | Value | Impact |
-|--------|-------|--------|
-| 📚 **Publications** | 22+ | High-impact journals |
-| 📈 **Citations** | 875+ | Growing influence |
-| 🎯 **h-index** | 13 | Research significance |
-| 🔬 **Active Projects** | 6+ | Current innovations |
-| 👥 **Students Supervising** | 4 | PhD Candidates | 4 | MTech Students |
-
-</div>
-
-### 🌟 Research Areas
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Nyalala's Research))
-    AI for Agriculture
-      Precision Crop Management
-      Deep Learning for Quality Grading
-      Agricultural Data Ecosystems
-      Supply Chain Innovation
-    Medical Imaging
-      Placental Imaging Analysis
-      3D Reconstruction
-      Diagnostic AI
-      Healthcare Informatics
-    Responsible AI
-      Ethical Frameworks
-      Context-Aware AI
-      CARA-FMs Development
-      Prime Directives for Africa
-```
-
-</div>
+- **Assistant Professor of Data Science & AI**, School of Engineering and Science, **IIT Madras Zanzibar**
+- **Associate Researcher**, **Wadhwani School of Data Science and AI (WSDSAI)**, IIT Madras Chennai
+- **Founding Principal Investigator**, **[SAAIL Lab](https://saaillab.github.io/)** (*Sustainable AI for Agriculture & Intelligent Livelihoods*)
+- **Editorial Board Member**, *Discover AI* (Springer Nature)
+- **Honors**: **2x Deep Learning Indaba Best Poster Award** (**DLI 2026 Lagos** for *DGS-Bench*; **DLI 2025 Kigali** for *CARA-FMs*)
 
 ---
 
-## 🌍 Global Collaborations
+## Research Impact & Metrics (2026)
 
-<div align="center">
-
-### 🤝 International Partnerships
-
-| 🏛️ Institution | 🌍 Country | 🔬 Focus Area | 📊 Status |
-|----------------|------------|---------------|-----------|
-| **Deakin University** | 🇦🇺 Australia | Cotutelle PhD - AI/IoT Agriculture | 🟢 Active |
-| **Penn State University** | 🇺🇸 USA | PlacentaVision Medical Imaging | 🟢 Active |
-| **Columbia University** | 🇺🇸 USA | AI-driven Air Quality Monitoring | 🟡 Initiating |
-| **University of Cambridge** | 🇬🇧 UK | Responsible AI Frameworks | 🟢 Active |
-| **Nanjing Agricultural University** | 🇨🇳 China | Agricultural Technology | 🟢 Ongoing |
-
-</div>
+| Metric | Value | Scope |
+|---|---|---|
+| Peer-Reviewed & Cataloged Works | **45+** | Journals, CVPR / ICLR / AAAI Workshops, DLI, DSA |
+| Google Scholar Citations | **1,185+** | **h-index: 15** · **i10-index: 17** |
+| Doctoral Co-Supervision | **5 PhD Candidates** | IITMZ / Deakin University (Australia) & SVSU / SUZA |
+| Master's Mentorship | **7+ MTech Scholars** | IIT Madras Zanzibar & IIT Madras Chennai |
 
 ---
 
-## 🚀 Featured Projects
+## Flagship Research Ecosystem: CropGuard (Papers 1–6)
 
-<div align="center">
+Umbrella Hub: **[saaillab.github.io/cropguard/](https://saaillab.github.io/cropguard/)**
 
-### 🌾 SAAIL Lab - Sustainable AI for Agriculture & Intelligent Livelihoods
-
-[![SAAIL Lab](https://img.shields.io/badge/🔬_SAAIL_Lab-Visit_Website-2E8B57?style=for-the-badge&logo=laboratory)](https://inyalala.github.io/saaillab.github.io)
-
-*Leading research laboratory at IIT Madras Zanzibar focusing on transformative AI solutions for East Africa*
-
-**Key Projects:**
-- 🌿 **Deep Learning for Zanzibar Cloves** - Quality grading using computer vision
-- 🏥 **Placental Imaging AI** - Medical diagnostics for neonatal care
-- 👁️ **E-Vision Assistive Tech** - AI for visually impaired individuals
-- 🔗 **Blockchain Spice Supply Chain** - Traceability for agricultural products
-
-</div>
+| Paper | Framework | Target Venue / Status | Resources |
+|---|---|---|---|
+| **Paper 1** | **CropGuardNet** | *Artificial Intelligence in Agriculture* (Under Review) | [Project Page](https://saaillab.github.io/papers/cropguardnet/) · [Code](https://github.com/saaillab/CropGuardNet) · [Standalone Page](https://saaillab.github.io/CropGuardNet/) |
+| **Paper 2** | **CropKD-Net** | *Computers and Electronics in Agriculture* (Active) | [Project Page](https://saaillab.github.io/papers/cropkd-net/) · [Code](https://github.com/saaillab/CropKD-Net) |
+| **Papers 3–6** | CropMambaNet · CropDomainNet · CropContinual · CropGuard-Severity | Planned Series | [Series Roadmap](https://saaillab.github.io/cropguard/) |
 
 ---
 
-## 📚 Recent Publications
+## Selected Recent Publications & Open Repositories
 
-<div align="center">
+| Year | Title | Venue / Recognition | Links |
+|---|---|---|---|
+| **2026** | **CropGuardNet**: Unified Lightweight CNN-Transformer & Four-Family XAI (481.6K params, 99.17% Acc, 35,420 unique leaves) | *AI in Agriculture* (Under Review) | [Project Page](https://saaillab.github.io/papers/cropguardnet/) · [GitHub](https://github.com/saaillab/CropGuardNet) |
+| **2026** | **DGS-Bench**: Measuring the Deployment Gap in African Agricultural AI Requires Balanced Metrics | **DLI 2026 Best Poster Award** | [Project Page](https://saaillab.github.io/papers/dgs-bench/) · [GitHub](https://github.com/saaillab/dgs-bench) |
+| **2026** | **CLOVES-4603**: Classical Texture Features & Fine-Tuned Deep Models for Clove Quality Grading | **CVPR 2026 Workshop (V4A)** | [Project Page](https://saaillab.github.io/papers/cloves-4603/) · [GitHub](https://github.com/saaillab/CLOVES-4603) |
+| **2026** | **Unifying Perspectives on Learning Biases**: Data-Centric Fairness, Robustness & Generalization | **ICLR 2026 Workshop** | [Project Page](https://saaillab.github.io/papers/trustworthy-ai-iclr2026/) · [GitHub](https://github.com/saaillab/trustworthy-ai-iclr2026) |
+| **2025** | **CARA-FMs**: Context-Aware & Responsible AI Framework for Foundation Models in East Africa | **DLI 2025 Best Poster Award** / *PMLR 302* | [Project Page](https://saaillab.github.io/papers/cara-fm/) · [GitHub](https://github.com/saaillab/cara-fm) |
+| **2025** | **Rectifying the extremely weakened signals for cassava leaf disease detection** | *Comput. Electron. Agric.* (IF 7.7) | [Project Page](https://saaillab.github.io/papers/cassava-weakened-signals-2025/) · [DOI](https://doi.org/10.1016/j.compag.2025.110107) |
+| **2025** | **BAFNet**: Deep contour-aware features for colorectal polyps segmentation | *Expert Syst. Appl.* (IF 7.5) | [Project Page](https://saaillab.github.io/papers/bafnet-polyp-2025/) · [DOI](https://doi.org/10.1016/j.eswa.2025.129998) |
 
-### 🏆 High-Impact Research (2025)
-
-📄 **"Rectifying the extremely weakened signals for cassava leaf disease detection"**  
-*Computers and Electronics in Agriculture* (IF: 8.9) | 🔗 [Read Paper](https://doi.org/10.1016/j.compag.2025.110107)
-
-📄 **"A salient feature establishment tactic for cassava disease recognition"**  
-*Artificial Inteligence in Agriculture* (IF: 12.4) | 🔗 [Read Paper](https://doi.org/10.1016/j.aiia.2024.11.004)
-
-📄 **"Online chicken carcass volume estimation using depth imaging and 3-D reconstruction"**  
-*Poultry Science* (IF: 4.2) | 🔗 [Read Paper](https://doi.org/10.1016/j.psj.2024.104232)
-
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jYVzIZUAAAAJ&hl=en)
-
-</div>
+> Browse all **45+ interactive Academic Project Pages** at **[saaillab.github.io/publications](https://saaillab.github.io/publications)** or **[inyalala.github.io/publications](https://inyalala.github.io/publications/)**.
 
 ---
 
-## 🎓 Academic Leadership
+## Connect & Collaborate
 
-### 👥 Current Research Students
-
-<div align="center">
-
-| 🎓 Student | 🔬 Research Focus | 📊 Status |
-|------------|------------------|-----------|
-| **Patrick Vincent Ndowo** | Deep Learning for Zanzibar Cloves Quality Grading | 🟢 Active |
-| **Twamaa Hababuu Makame** | Placental Weight & Volume Estimation from 2D Ultrasound | 🟢 Active |
-| **Shivam Vyas** | E-Vision: Intelligent Assistive Application for Visually Impaired | 🟢 Active |
-
-</div>
-
-### 🏛️ Administrative Excellence
-- 💻 **In-Charge of Computing Resources** - IIT Madras Zanzibar
-- 📋 **MTech Project Committee Member** - Academic oversight
-- 👥 **Faculty Recruitment Committee** - Strategic hiring
-
----
-
-## 🌟 Connect & Collaborate
-
-<div align="center">
-
-### 📞 Let's Connect!
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-inyalala.github.io-2E8B57?style=for-the-badge)](https://inyalala.github.io)
-[![SAAIL Lab](https://img.shields.io/badge/🔬_SAAIL_Lab-Research_Website-FF6B35?style=for-the-badge)](https://inyalala.github.io/saaillab.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-innocent@iitmz.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:innocent@iitmz.ac.in)
-
-### 🌐 Professional Networks
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/innocentnyalala/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jYVzIZUAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7969-437X)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Innocent-Nyalala)
-
-</div>
-
----
-
-## 🎯 Current Opportunities
-
-<div align="center">
-
-### 🤝 Collaboration Opportunities
-
-🔬 **Research Partnerships** - Joint projects and funding applications  
-🎓 **Student Exchange** - International PhD and MTech programs  
-🏭 **Industry Collaboration** - Technology transfer and innovation  
-🎤 **Conference Speaking** - Keynotes and technical presentations  
-
-### 📧 Contact for:
-- Research collaborations in AI for Agriculture
-- PhD/MTech supervision opportunities  
-- Industry partnerships and consulting
-- Speaking engagements and workshops
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 "Transforming East African agriculture through ethical AI innovation" 🌱
+- **Lab Website:** [https://saaillab.github.io/](https://saaillab.github.io/)
+- **Personal Academic Site:** [https://inyalala.github.io/](https://inyalala.github.io/)
+- **LinkedIn:** [linkedin.com/in/innocentnyalala](https://www.linkedin.com/in/innocentnyalala/)
+- **Email:** [innocent@iitmz.ac.in](mailto:innocent@iitmz.ac.in)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
-
-### 🏛️ IIT Madras Zanzibar | 🔬 SAAIL Lab | 🌍 East Africa
-
-**© 2024 Innocent Nyalala - Bridging cutting-edge technology with real-world impact**
-
-![Profile Views](https://komarev.com/ghpvc/?username=inyalala&color=2E8B57&style=for-the-badge&label=Profile+Views)
-
-</div>
